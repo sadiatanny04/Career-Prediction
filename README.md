@@ -1,2 +1,2 @@
 # Career-Prediction
-This is a teamwork lab project
+This is CSE-0420(Machine Learning) lab project
